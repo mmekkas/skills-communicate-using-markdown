@@ -8,5 +8,6 @@
 
 ![Azure est la](https://www.devops.ae/wp-content/uploads/2020/10/microsoft-azure.png)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
+```
+rm index.md
+```
