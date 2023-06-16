@@ -11,3 +11,8 @@
 ```
 rm index.md
 ```
+
+- [x] Finir le defi
+- [ ] reviser l'exam
+- [ ] réussir l'exam
+
